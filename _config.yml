@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic Webpage"
+title                    : "Pdf's Personal Webpage"
 title_separator          : "-"
 name                     : &name "pdf"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "likeme.png"
-  name             : "pdf"
+  name             : "Pdf"
   pronouns         : # example: "she/her"  
-  bio              : "An ordinary graduate student！"
-  location         : "China"
-  employer         : "IAP"
+  bio              : "IAP, CAS"
+  location         : "Beijing, CN"
+  employer         : #"IAP"
   uri              : #
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
